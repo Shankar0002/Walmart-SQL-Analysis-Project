@@ -14,15 +14,15 @@ The goal of this project is to analyze Walmart's retail data using SQL. The anal
 ---
 
 ## Key Insights & Analysis
-Analyzed 1,000 retail transactions from Walmart to uncover patterns in customer behavior and branch performance.
+-Analyzed 1,000 retail transactions from Walmart to uncover patterns in customer behavior and branch performance.
 
-Naypyitaw generated the highest total gross income, making it the most profitable city.
+-Naypyitaw generated the highest total gross income, making it the most profitable city.
 
-Branch A recorded the highest quantity of products sold, indicating strong operational performance.
+-Branch A recorded the highest quantity of products sold, indicating strong operational performance.
 
-Female customers made more purchases than male customers, reflecting a slightly higher engagement.
+-Female customers made more purchases than male customers, reflecting a slightly higher engagement.
 
-The top 3 product lines by gross income were:
+-The top 3 product lines by gross income were:
 
 -**Food and Beverages**
 
@@ -30,15 +30,15 @@ The top 3 product lines by gross income were:
 
 -**Electronic Accessories**
 
-January was the highest-grossing month, showing a strong start-of-year sales trend.
+-January was the highest-grossing month, showing a strong start-of-year sales trend.
 
-The highest total daily sales were recorded on 09-Mar-2019, highlighting potential for seasonal demand.
+-The highest total daily sales were recorded on 09-Mar-2019, highlighting potential for seasonal demand.
 
-Branch C collected the most in 5% tax, suggesting high-value transactions at this location.
+-Branch C collected the most in 5% tax, suggesting high-value transactions at this location.
 
-The top-selling product line by quantity was Electronic Accessories, showing popularity in tech items.
+-The top-selling product line by quantity was Electronic Accessories, showing popularity in tech items.
 
-Branch C also received the highest average customer rating, indicating excellent customer satisfaction.
+-Branch C also received the highest average customer rating, indicating excellent customer satisfaction.
 
 
 ---
