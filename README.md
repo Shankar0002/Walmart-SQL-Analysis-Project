@@ -24,11 +24,11 @@ Female customers made more purchases than male customers, reflecting a slightly 
 
 The top 3 product lines by gross income were:
 
-**Food and Beverages**
+-**Food and Beverages**
 
-**Sports and Travel**
+-**Sports and Travel**
 
-**Electronic Accessories**
+-**Electronic Accessories**
 
 January was the highest-grossing month, showing a strong start-of-year sales trend.
 
