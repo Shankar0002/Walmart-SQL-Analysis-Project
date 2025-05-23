@@ -54,9 +54,13 @@ The goal of this project is to analyze Walmart's retail data using SQL. The anal
 ##  Outcomes
 
 -Performed comprehensive SQL analysis on a Walmart-like retail dataset to uncover actionable business insights.
+
 -Successfully answered real-world business questions using a range of SQL techniques such as aggregations, joins, subqueries, CTEs, and window functions.
+
 -Demonstrated the use of analytical SQL functions for deriving trends, customer behavior patterns, product performance, and branch-level rankings.
+
 -Gained hands-on experience in structuring business questions, translating them into SQL queries, and interpreting the results for data-driven decision-making.
+
 -Developed a structured and well-documented approach to EDA using SQL — valuable for roles in data analytics, business intelligence, and operations strategy.
 
 ---
