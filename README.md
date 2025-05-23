@@ -56,5 +56,4 @@ The goal of this project is to analyze Walmart's retail data using SQL. The anal
 
 ---
 
-##  Project Structure
 
