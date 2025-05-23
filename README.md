@@ -24,11 +24,11 @@ The goal of this project is to analyze Walmart's retail data using SQL. The anal
 
 -The top 3 product lines by gross income were:
 
--**Food and Beverages**
+- 1)**Food and Beverages**
 
--**Sports and Travel**
+- 2)**Sports and Travel**
 
--**Electronic Accessories**
+- 3)**Electronic Accessories**
 
 -January was the highest-grossing month, showing a strong start-of-year sales trend.
 
