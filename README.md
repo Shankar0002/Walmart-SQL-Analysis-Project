@@ -13,29 +13,32 @@ The goal of this project is to analyze Walmart's retail data using SQL. The anal
 
 ---
 
-##  Key Business Questions Answered
+## Key Insights & Analysis
+Analyzed 1,000 retail transactions from Walmart to uncover patterns in customer behavior and branch performance.
 
-1. Query all rows and columns from the sales table.
-2. How many total sales records are there?
-3. What are the different product lines sold?
-4. What is the total quantity sold by each branch?
-5. Which city had the highest gross income?
-6. How many sales were made by male vs female customers?
-7. What is the monthly gross income trend per branch?
-8. Which branches have above-average total sales?
-9. On which date was the highest total sales recorded?
-10. What is the average unit price per product line?
-11. What are the top 3 product lines by gross income?
-12. Calculate average quantity and filter transactions above that average.
-13. What is the total Tax 5% collected per branch?
-14. Find the top 3 product lines by average rating in each city.
-15. Rank branches by average customer rating.
-16. Rank each customer’s purchases within their city by total amount spent.
-17. Add a cumulative total sales column per branch (running total).
-18. Find top 3 highest rated transactions per branch.
-19. Find the top-selling product line by total quantity sold.
-20. Rank product lines by total gross income (across all branches).
+Naypyitaw generated the highest total gross income, making it the most profitable city.
 
+Branch A recorded the highest quantity of products sold, indicating strong operational performance.
+
+Female customers made more purchases than male customers, reflecting a slightly higher engagement.
+
+The top 3 product lines by gross income were:
+
+Food and Beverages
+
+Sports and Travel
+
+Electronic Accessories
+
+January was the highest-grossing month, showing a strong start-of-year sales trend.
+
+The highest total daily sales were recorded on 09-Mar-2019, highlighting potential for seasonal demand.
+
+Branch C collected the most in 5% tax, suggesting high-value transactions at this location.
+
+The top-selling product line by quantity was Electronic Accessories, showing popularity in tech items.
+
+Branch C also received the highest average customer rating, indicating excellent customer satisfaction.
 
 
 ---
